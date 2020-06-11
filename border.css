@@ -484,6 +484,9 @@
 .smallroundborder{
     border-radius: 4px;
 }
+.mediumroundborder{
+    border-radius: 6px;
+}
 .bigroundborder{
     border-radius: 8px;
 }

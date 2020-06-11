@@ -15,6 +15,14 @@ html 태그의 클래스 이름만 지정해서 스타일을 적용해 줍니다
     <link rel="stylesheet" href="./font.css">    
     <link rel="stylesheet" href="./border.css">    
 ```
+
+<link rel="stylesheet" href="./style.css">   
+<link rel="stylesheet" href="./box.css">    
+<link rel="stylesheet" href="./border.css">    
+<link rel="stylesheet" href="./button.css">    
+<link rel="stylesheet" href="./font.css">    
+<link rel="stylesheet" href="./border.css">   
+
 4. 준비가 완료되었습니다! 아래 설명서를 잘 읽어주시기 바랍니다!   
 
 ## box.css

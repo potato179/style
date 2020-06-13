@@ -43,7 +43,7 @@ html 태그의 클래스 이름만 지정해서 스타일을 적용해 줍니다
 글자에 취소선을 긋습니다.
 
 ### text-transform 기능 
-`uppercase, lowercase, capitalize`
+`uppercase, lowercase, capitalize`   
 이 기능도 css와 속성 이름이 같습니다. 택스트의 대.소문자를 정해줍니다.
 #### uppercase
 모든 글자를 대문자로 정합니다.
@@ -53,7 +53,7 @@ html 태그의 클래스 이름만 지정해서 스타일을 적용해 줍니다
 모든 단어의 첫 글자를 대문자로 정합니다.
 
 ### font-size 기능 
-`xx-large, x-large, large, medium, small, x-small, xx-small, intro`
+`xx-large, x-large, large, medium, small, x-small, xx-small, intro`   
 클래스 이름을 정해주면 클씨 크기가 변합니다. 각 클래스 이름에 대한 설명은 생략합니다.
 #### intro
 font-size를 xx-large, font-weight를 bold로 정합니다. 제목 쓸 때 유용합니다.

@@ -99,6 +99,7 @@
     position: relative;
     transition: 0.5s;
 }
+
 .button-prev span:after{
     content: '<';
     position: absolute;

@@ -10,6 +10,10 @@ html 태그의 클래스 이름만 지정해서 스타일을 적용해 줍니다
 ```
     <link rel="stylesheet" href="./potato.css">    
 ```
+더 빠른 속도와 적은 용량을 원하시면 아래 경로로 입력해주세요.
+```
+    <link rel="stylesheet" href="./potato-min.css">    
+```
 
 4. 준비가 완료되었습니다! 아래 설명서를 잘 읽어주시기 바랍니다!   
 

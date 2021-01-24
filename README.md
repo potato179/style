@@ -8,17 +8,14 @@ html 태그의 클래스 이름만 지정해서 스타일을 적용해 줍니다
 2. 적절한 위치에 스타일 파일들을 넣어줍니다.
 3. html에서 이 스타일을 불러옵니다. (경로는 알아서 수정하세요..)
 ```
-    <link rel="stylesheet" href="./box.css">    
-    <link rel="stylesheet" href="./border.css">    
-    <link rel="stylesheet" href="./button.css">    
-    <link rel="stylesheet" href="./font.css">    
+    <link rel="stylesheet" href="./potato.css">    
 ```
 
 4. 준비가 완료되었습니다! 아래 설명서를 잘 읽어주시기 바랍니다!   
 
 * 참고: 색깔 이름은 <a href = "https://www.w3schools.com/colors/colors_names.asp">여기<a>를 참고했습니다.
 
-## font.css
+## font
 폰트 속성을 정해줍니다. 
 ### text-alligin 기능
 `center, right, left, justify`   
@@ -61,7 +58,7 @@ font-size를 xx-large, font-weight를 bold로 정합니다. 제목 쓸 때 유�
 ### color 기능
 글씨 색을 정해줍니다. 클래스 이름을 색 이름으로 하시면 됩니다.
 
-## box.css
+## box
 기본 배경색을 정해줍니다.
 ### opacity 기능
 투명도를 정해 줍니다. 0.1에서 0.1단위로 0.9까지 사용 가능합니다. 클래스 이름을 op1~9 으로 하시면 됩니다.
@@ -69,7 +66,7 @@ font-size를 xx-large, font-weight를 bold로 정합니다. 제목 쓸 때 유�
 ### background-color + color (서로 보색 관계) 지정 기능
 태그의 기본적인 배경색과 내부에 있는 택스트를 배경색의 보색으로 적용합니다. 만약 택스트 색깔이 맘에 들지 않은 경우 태그에서 스타일로 덮어쓰시면 됩니다. 클래스 이름은 box-색깔이름 으로 하시면 됩니다.
 
-## border.css
+## border
 Border 속성을 정해 줍니다.
 ### border-color 기능 
 Border의 색을 정해줍니다. 클래스 이름은 border-색깔이름 으로 하시면 됩니다.
@@ -85,7 +82,7 @@ Border의 radius를 8px로 정해줍니다.
 ### border-style 기능 
 `border-dotted, border-dashed, border-solid, border-double, border-groove, border-ridge, border-inset, border-outset`    
 Border의 스타일을 정해 줍니다. 위 이름으로 클래스 이름을 정하세요.
-## outline.css  
+## outline  
 Outline의 속성을 정해줍니다.  
 ### outline-color 기능 
 Outline의 색을 정해줍니다. 클래스 이름은 outline-색깔이름 으로 하시면 됩니다.
